@@ -18,6 +18,6 @@ public class WordsBuilder {
             }
 
         }
-        System.out.println(stringBuilder);
+        System.out.print(stringBuilder);
     }
 }
